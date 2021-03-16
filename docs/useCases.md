@@ -17,7 +17,7 @@
 **Extensions:** None  
 **Preconditions:** Must exist a created task.  
 
-**Title:** _Cancel a pomodro _ 
+**Title:** _Cancel a pomodro_   
 **Primary Actor:** User  
 **Success Scenario:**  
     1. The user cancels a pomodoro.  
@@ -41,5 +41,21 @@
 **Success Scenario:**  
     1. Once the task is done the user can check the task.  
     2. The system checks the task and archives it.  
+**Extensions:** None
+**Preconditions:** None
+
+**Title:** _Create a note_   
+**Primary Actor:** User  
+**Success Scenario:**  
+    1. The user write a note  
+    2. The system saves the note in the task notes  
+**Extensions:** None
+**Preconditions:** None
+
+**Title:** _Change setting_   
+**Primary Actor:** User  
+**Success Scenario:**  
+    1. The user change the pomodoro's setting
+    2. The system save the settings and modifies the time duration
 **Extensions:** None
 **Preconditions:** None

@@ -8,7 +8,9 @@
 6. The system must notify user and check the pomodor once the time is finished.
 7. The system must set a 5 minutes rest timer after each pomodoro.
 8. The system must set a 15 minutes rest timer after 4 pomodoros.
-9. The system must allow the user change the timers duration
+9. The system must allow the user to create notes
+10. The system must allow the user change the timers duration
+
 
 # Non-Functional Requirements
 
