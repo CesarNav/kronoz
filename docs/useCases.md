@@ -58,4 +58,6 @@
     1. The user change the pomodoro's setting
     2. The system save the settings and modifies the time duration
 **Extensions:** None
-**Preconditions:** None
+**Preconditions:** None  
+
+![UseCases Diagram](/docs/kronoz_usecases_diagram.png)  
